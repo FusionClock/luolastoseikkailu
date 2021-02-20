@@ -22,8 +22,8 @@ title: Luolastoseikkailu
 email: petri@bezemer.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Pelinjohtajan muistiinpanoja erinäisistä luolastoseikkailuista.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/luolastoseikkailu" # the subpath of your site, e.g. /blog
+url: "https://fusionclock.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: FusionClock
 # github_username: FusionClock
 
