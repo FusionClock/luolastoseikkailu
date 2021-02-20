@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Xyntillanin kampanjan valmistelu"
+date: 2021-02-20 21:00:55 +0200
+categories: xyntillan
+---
+
+Xyntillanin linnan ympärillä pyörivää kampanjaa lähdin valmistelemaan seuraamalla digitaalisen kirjan mukana tulleita ohjeita karttojen käytöstä. Kirjan kylkiäisenä tuli pelkistettyjä mutta korkealaatuisia kuvia linnan pohjapiirroksesta, jotka saatoin siirtää Roll20:n, virtuaalisen pelipöydän, puolelle pelaajien tutkittavaksi. Kuvien ruudukon saaminen tarkalleen päällekäin Roll20:n ruudukon kanssa osoittautui hankalaksi, joten tyydyin aseuttamaan mittakaavan kohdilleen, ja poistin pöydän ruudukon käytöstä. Käytännössä pöydällä näkyvä ruudukko ei siis nappaa kiinni hahmoista kuten tavallisesti, mutta en pidä menetystä pahana.
+
+Pohjapiirrosten asteittainen paljastaminen tutkimisen myötä on ollut kerran aikaisemmin käytössäni [Tomb of the Serpent King][sos] -nimisessä luolastossa, jossa se toimi erinomaisesti. Xyntillanin mukana tuli erilliset, pelaajia varten tehdyt pohjapiirrokset, joten saatoin odottamaan tämän menetelmän toimivan entistä paremmin. Aikaisemmin ongelmia aiheuttivat nimittäin karttaan merkityt ansat, piilotetut ovet ja muut lisämerkinnät, jotka jouduin erikseen hävittämään kartasta.
+
+Karttojen siirtämisen jälkeen tutustuin muiden valmistelumenetelmiin, lähinnä blogien ja Discordin kautta. Tähän mennessä paras vinkki on ollut satunnaisten kohtaamisten heittäminen valmiiksi. Ennen peliä arvoin noin kymmenen kohtaamista ja kohdattujen olentojen suhtautumiset pelaajiin. Kirja erityisesti ohjeistaa aina arpomaan suhtautumisen, jonka vuoksi läheskään kaikki kohtaamiset eivät ala väkivaltaisesti. Jotain sisältöä näissä kohtaamisissa pitää kuitenkin olla, joten arpomalla kohtaamiset ennakkoon saatoin hyvissä ajoin katsoa mitä vihamiehiä eräällä ranskalaisella vampyyrillä on linnassa, mitkä ovat hänen mielihalujaan ja mikä on hänen suhtautuminen ihmisiin ylipäätään. Näiden perusteella suunnittelin kohtaamisen muutamalla sanalla. Mitään en tietekään lyönyt lukkoon, vaan otin sen ohjenuoraksi. Kohtaamisen aika ja paikka tulisivat tietenkin selviämään vasta itse pelin aikana.
+
+Vinkin löysin blogista [Vague Countries][vague-countries].
+
+Suunnittelin myös yhden toimeksiannon pelaajia varten seikkailun käynnistämiseksi: Tavernan pitäjän veli kadotti linnassa seikkaillessaan suvun sinettisormuksen, ja vaikka hän pakeni henkensä kanssa, menetti hän järkensä jonkin pelottavan kivipatsaan edessä. Onneksi veljen horinoista on ymmärrettävissä, että sormus katosi linnan kappelissa. Muuta apua heistä ei kuitenkaan ole.
+
+Tällaisen aloitusseikkailun tarkoitus on saada pelaajat kohti linnaa ja tutkimaan sitä, ei muuta. Tehtävässä ei ole suurta pahaa uhkaamassa maailman olemassaoloa eikä maagista miekkaa lopussa. Reaaliajassa homma voisi olla ohi parissa tunnissa. Pelaajien kanssa on etukäteen sovittu, että linnan tutkiminen tulee olemaan heidän tarkoituksensa, mutta pieni tehtävä jouduttaa heitä oikeaan suuntaan ja antaa jonkin pisteen, josta lankakerää voi lähteä purkamaan.
+
+Valmisteluiden muistiinpanot kirjasin Mirosoft OneNote -ohjelmaan. Aikaisemmassa [Song of Swords][sos] -pelissä OneNoten kyky kirjata samaan dokumenttiin kuvia, taulukoita, piirroksia ja tekstiä hyvin vapaasti sommitellen tuntuu kannustaneen minua parempiin muistiinpanoihin, joten jatkan sen käyttöä.
+
+Seuraavassa osassa tutustutaan Tours-en-Savohin, Xyntillania lähinnä sijaitsevaan kylään, ja lopulta jopa itse Xyntillaniin.
+
+[sos]: https://www.drivethrurpg.com/product/264726/Song-of-Swords-Core-Rulebook
+[totsk]: https://www.drivethrurpg.com/product/252934/Tomb-of-the-Serpent-Kings--Deluxe-Print-Edition
+[vague-countries]: https://vaguecountries.nl/2020/12/21/castle-xyntillan-session-12-eye-on-the-prize/
