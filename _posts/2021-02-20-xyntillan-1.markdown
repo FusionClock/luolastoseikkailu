@@ -5,9 +5,13 @@ date: 2021-02-20 21:00:00 +0200
 categories: xyntillan
 ---
 
+# Mitä ja miten
+
 * Luolasto: [Castle Xyntillan][xyntillan]
 * Peli: [Mörk Borg][mork-borg]
 * Tekniikka: [Roll20][roll20] + [Discord][discord]
+
+# Valmistelut
 
 Xyntillanin linnan ympärillä pyörivää kampanjaa lähdin valmistelemaan seuraamalla digitaalisen kirjan mukana tulleita ohjeita karttojen käytöstä. Kirjan kylkiäisenä tuli pelkistettyjä mutta korkealaatuisia kuvia linnan pohjapiirroksesta, jotka saatoin siirtää Roll20:n, virtuaalisen pelipöydän, puolelle pelaajien tutkittavaksi. Kuvien ruudukon saaminen tarkalleen päällekäin Roll20:n ruudukon kanssa osoittautui hankalaksi, joten tyydyin aseuttamaan mittakaavan kohdilleen, ja poistin pöydän ruudukon käytöstä. Käytännössä pöydällä näkyvä ruudukko ei siis nappaa kiinni hahmoista kuten tavallisesti, mutta en pidä menetystä pahana.
 
