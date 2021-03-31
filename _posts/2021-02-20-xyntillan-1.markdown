@@ -27,8 +27,6 @@ Tällaisen aloitusseikkailun tarkoitus on saada pelaajat kohti linnaa ja tutkima
 
 Valmisteluiden muistiinpanot kirjasin [Mirosoft OneNote][one-note] -ohjelmaan. Aikaisemmassa [Song of Swords][sos] -pelissä OneNoten kyky kirjata samaan dokumenttiin kuvia, taulukoita, piirroksia ja tekstiä hyvin vapaasti sommitellen tuntuu kannustaneen minua parempiin muistiinpanoihin, joten jatkan sen käyttöä.
 
-Seuraavassa osassa tutustutaan Tours-en-Savoyhin, Xyntillania lähinnä sijaitsevaan kylään, ja lopulta jopa itse Xyntillaniin.
-
 [discord]: https://discord.com/
 [mork-borg]: https://www.drivethrurpg.com/product/295910/Mork-Borg-English
 [one-note]: https://www.microsoft.com/fi-fi/microsoft-365/onenote/digital-note-taking-app

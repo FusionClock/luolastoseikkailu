@@ -5,11 +5,11 @@ date: 2021-02-21 20:20:00 +0200
 categories: xyntillan
 ---
 
-# Seikkailijat ja heidän kohtalonsa lyhyesti
+# Seikkailijat
 
-* Gawain Sunshield: Entinen temppeliritari, nykyinen luolastoseikkailija. Tuomin eno. Elossa. 
-* Tuomi: Tarjoilija päivisin, alkemisti öisin. Kantaa mukanaan suurta pommia. Elossa.
-* Luna: Katujen kasvatti. Nopea selittämään miksi hän on väärässä paikassa. Elossa.
+* Gawain Sunshield: Entinen temppeliritari, nykyinen luolastoseikkailija. Tuomin eno. 
+* Tuomi: Tarjoilija päivisin, alkemisti öisin. Kantaa mukanaan suurta pommia.
+* Luna: Katujen kasvatti. Nopea selittämään miksi hän on väärässä paikassa.
 
 # Kertaus muistikuvieni mukaan
 
